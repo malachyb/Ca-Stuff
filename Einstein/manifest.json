@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Einstein",
+  "version": "0.1",
+  "description": "Really cool trust me",
+  "content_scripts": [
+    {
+      "matches":
+      ["https://ca116.computing.dcu.ie/*"],
+      "js": ["einstein.js"]
+    }
+  ]
+}
