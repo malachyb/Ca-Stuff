@@ -5,9 +5,15 @@
   "description": "Really cool trust me",
   "content_scripts": [
     {
-      "matches":
-      ["https://ca116.computing.dcu.ie/*"],
-      "js": ["einstein.js"]
+      "matches": [
+        "https://ca116.computing.dcu.ie/lab*",
+        "https://ca116.computing.dcu.ie/einstein/task*",
+        "https://ca116.computing.dcu.ie/einstein/graph*",
+        "https://ca116.computing.dcu.ie//einstein/report*"
+      ],
+      "js": [
+        "einstein.js"
+      ]
     }
   ]
 }
