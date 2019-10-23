@@ -9,7 +9,13 @@
         "https://ca116.computing.dcu.ie/lab*",
         "https://ca116.computing.dcu.ie/einstein/task*",
         "https://ca116.computing.dcu.ie/einstein/graph*",
-        "https://ca116.computing.dcu.ie//einstein/report*"
+        "https://ca116.computing.dcu.ie/einstein/report*
+        "https://ca116.computing.dcu.ie/einstein/solutions*"
+        "https://ca116.computing.dcu.ie/lab-allocation-by-student-tuesday*"
+        "https://ca116.computing.dcu.ie/lab-allocation-by-lab-tuesday*"
+        "https://ca116.computing.dcu.ie/lab-allocation-by-student-thursday*"
+        "https://ca116.computing.dcu.ie/lab-allocation-by-lab-thursday*"
+        "
       ],
       "js": [
         "einstein.js"
