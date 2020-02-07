@@ -14,7 +14,7 @@
         "https://ca116.computing.dcu.ie/1*",
         "https://ca116.computing.dcu.ie/0*",
         "https://ca116.computing.dcu.ie/pt*",
-		"https://ca117.computing.dcu.ie/*"
+	"https://ca117.computing.dcu.ie/*"
       ],
       "js": [
         "einstein.js"
